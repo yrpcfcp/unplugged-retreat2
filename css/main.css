@@ -87,6 +87,101 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   header
+   {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-flow: row wrap;
+   }
+
+   /* .content-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   } */
+
+   .unplugged_faq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+   .unplugged_footer-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+   }
+
+   .unplugged_find-out-more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+   .unplugged_features{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+
+   }
+
+   .unplugged_reviews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+   .unplugged_footer-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+   .unplugged_social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+   .unplugged_copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
